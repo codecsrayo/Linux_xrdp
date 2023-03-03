@@ -12,6 +12,10 @@ sudo systemctl enable xrdp
 
 sudo apt install openbox
 
+sudo apt install tint2
+
+sudo apt install htop
+
 ## la versión mas reciente de knime hasta la fecha
 
 wget https://download.knime.org/analytics-platform/linux/knime-latest-linux.gtk.x86_64.tar.gz
