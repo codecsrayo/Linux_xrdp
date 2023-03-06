@@ -13,6 +13,7 @@ sudo systemctl enable xrdp
 sudo apt install openbox
 
 sudo apt install tint2
+sudo apt install pcmanfm
 
 sudo apt install htop
 
